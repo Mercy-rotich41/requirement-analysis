@@ -33,3 +33,25 @@ Requirement Analysis bridges the gap between non-technical stakeholders (e.g., c
 By identifying potential issues early in the project lifecycle, Requirement Analysis minimizes rework and costly late-stage changes. It provides a clear plan that helps in resource allocation, risk management, and accurate time estimation.
 
 Additional benefits include improved software quality, easier testing and validation, and greater user satisfaction.
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several structured activities that ensure the final system meets user needs and expectations. The five key activities include:
+
+- **Requirement Gathering**  
+  This is the process of collecting information from stakeholders, users, and clients to understand their needs. It involves identifying who the stakeholders are and determining what they expect from the system.
+
+- **Requirement Elicitation**  
+  Involves engaging stakeholders using techniques such as interviews, questionnaires, brainstorming sessions, and workshops to extract detailed requirements. It focuses on uncovering both explicit and hidden needs.
+
+- **Requirement Documentation**  
+  All gathered and elicited requirements are clearly recorded in formal documents. These documents provide a reference for designers, developers, and testers throughout the project lifecycle.
+
+- **Requirement Analysis and Modeling**  
+  This step focuses on evaluating the requirements for clarity, completeness, consistency, and feasibility. It may involve creating models such as data flow diagrams, use case diagrams, or entity-relationship diagrams to visually represent the system.
+
+- **Requirement Validation**  
+  Ensures that the documented requirements accurately reflect the stakeholders' needs. Validation helps identify gaps, ambiguities, and conflicts before development begins. It often involves reviews, walkthroughs, and prototyping.
+
+These activities collectively help establish a strong foundation for building reliable, user-centric software systems.
+
