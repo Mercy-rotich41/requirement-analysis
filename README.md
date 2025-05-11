@@ -55,3 +55,38 @@ Requirement Analysis involves several structured activities that ensure the fina
 
 These activities collectively help establish a strong foundation for building reliable, user-centric software systems.
 
+## Types of Requirements
+
+In software engineering, requirements are broadly categorized into **Functional** and **Non-functional** requirements. Both types are essential for building a complete and effective system.
+
+### Functional Requirements
+
+Functional requirements define what the system should do — the specific behaviors, functions, or features that the software must support.
+
+#### Definition:
+Functional requirements describe the **services, tasks, or functions** the system must perform.
+
+#### Examples for a Booking Management System:
+- Users should be able to create an account and log in securely.
+- The system must allow customers to search for available booking slots.
+- Users must be able to book, cancel, or reschedule their appointments.
+- Admins should be able to view, add, update, or delete booking records.
+- The system should send confirmation emails after successful bookings.
+
+---
+
+### Non-functional Requirements
+
+Non-functional requirements describe **how** the system performs its functions. These requirements often relate to performance, usability, security, and scalability.
+
+#### Definition:
+Non-functional requirements define the **quality attributes** and operational standards the system must meet.
+
+#### Examples for a Booking Management System:
+- The system should respond to user actions within 2 seconds.
+- User data must be encrypted and stored securely.
+- The platform should support at least 1000 concurrent users.
+- The application should be accessible on both desktop and mobile devices.
+- The system must be available 99.9% of the time (high availability).
+
+Understanding and documenting both types ensures that the software not only works correctly but also performs efficiently and securely under real-world conditions.
